@@ -1,7 +1,8 @@
 ---
 title: Efektivní altruismus
 published: true
-tags: ['Markdown','Test files']
+date: 2020-10-15
+tags: ['EA']
 ---
 
 # Efektivní altruismus je super
