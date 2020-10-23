@@ -7,7 +7,7 @@ tags: ['Math 1a']
 ---
 
 
-Hey everyone, so this is an experiment of me explaining stuff from Ma 1a. To set things straight, I'm also seeing this kind of approach to calculus for the first time, and I'm not particularly smart, or at least not "brain-powerful". I'm just interested in learning, teaching, explaining, ... and better methods of writing stuff on the Internet. (I hate the pdf with a burning passion.) I've never pushed myself to actually create something, and this seemed like a fruitful opportunity.
+Hey everyone, so this is an experiment of me explaining stuff from Ma 1a. To set things straight, I'm also seeing this kind of approach to calculus for the first time, and I'm not particularly smart, or at least not "brain-powerful". I'm just interested in learning, teaching, explaining, ... and better methods of writing stuff on the Internet. I've never pushed myself to actually create something, and this seemed like a fruitful opportunity.
 
 (You are on my unfinished blog; don't bother clicking around.)
 
