@@ -114,6 +114,10 @@ query Post ($id: ID!) {
       display: block;
       max-width: none;
     }
+
+    img[alt=fig]{
+      max-width: 500px;
+    }
   }
 }
 
