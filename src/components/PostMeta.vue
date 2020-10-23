@@ -1,8 +1,8 @@
 <template>
    <div class="post-meta">
-      Přidáno {{ post.date }}.
+      {{ post.author }}. {{ post.date }}.
       <template v-if="post.timeToRead">
-        <strong>{{ post.timeToRead }} minut čtení.</strong>
+        <strong>{{ post.timeToRead }} min to read.</strong>
       </template>
     </div>
 </template>

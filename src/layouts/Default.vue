@@ -5,9 +5,9 @@
         <Logo v-if="showLogo" />
       </div>
 
-      <g-link class="post-tags__link" to="/tag/EA/">
+      <!-- <g-link class="post-tags__link" to="/tag/EA/">
         <span>#</span> EAa
-      </g-link>
+      </g-link> -->
 
       <div class="header__right">
         <ToggleTheme />

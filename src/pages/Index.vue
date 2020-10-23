@@ -18,7 +18,8 @@ query {
       node {
         id
         title
-        date (format: "D. MMMM YYYY")
+        author
+        date (format: "D. MMMM YYYY", locale: "cz")
         timeToRead
         description
         cover_image (width: 770, height: 380, blur: 10)
