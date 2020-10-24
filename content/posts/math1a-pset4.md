@@ -1,5 +1,6 @@
 ---
-title: "Math 1a Explanatory Experiment | Problem set 4"
+title: "Math 1a Explanatory Experiment | Week 4"
+url: "ma1a-week4"
 author: "Adam Křivka"
 published: true
 date: 2020-10-15

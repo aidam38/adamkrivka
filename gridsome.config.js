@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: 'Je škoda, že hromada zajímavého obsahu v angličtině úplně míjí českou populaci.',
 
   templates: {
-    Post: '/:title',
+    Post: '/blog/:url',
     Tag: '/tag/:id'
   },
 
