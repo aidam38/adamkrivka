@@ -357,6 +357,6 @@ I promised all problems at one place. Here they are:
 
     * excercise 2, section 3.3
 
-- ![fig](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2FIkbwCRc8e8.png?alt=media&token=542a00ca-0d7c-4808-a0b9-dfad8d3de4d7)
+- ![fig](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2FNmcVOeibDX.png?alt=media&token=ca9eb854-01a6-4c44-800c-380f35676849)
 
 # If someone read this, please write me, lol, you get a candy.
