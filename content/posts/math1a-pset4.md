@@ -2,7 +2,7 @@
 title: "Math 1a Explanatory Experiment | Week 4"
 url: "ma1a-week4"
 author: "Adam Křivka"
-published: true
+published: false
 date: 2020-10-15
 tags: ['Math 1a']
 ---

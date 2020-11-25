@@ -29,29 +29,27 @@ module.exports = {
         }
       }
     },
-    // {
-    //   use: "gridsome-plugin-i18n",
-    //   options: {
-    //     locales: [ // locales list
-    //       'cz-cz',
-    //       'en-us'
-    //     ],
-    //     pathAliases: { // path segment alias for each locales
-    //       'cz-cz': 'cz',
-    //       'en-us': 'en'
-    //     },
-    //     fallbackLocale: 'cz-cz', // fallback language
-    //     defaultLocale: 'cz-cz', // default language
-    //     enablePathRewrite: true, // rewrite path with locale prefix, default: true
-    //     rewriteDefaultLanguage: true, // rewrite default locale, default: true
-    //     messages: {
-    //       'cz-cz': require('./src/locales/cz-cz.json'),
-    //       'en-us': require('./src/locales/en-us.json'),
-    //     }
-    //   }
-    // }
+    {
+      use: "gridsome-plugin-i18n",
+      options: {
+        locales: [ // locales list
+          'cz-cz',
+          'en-us'
+        ],
+        pathAliases: { // path segment alias for each locales
+          'cz-cz': 'cz',
+          'en-us': 'en'
+        },
+        // fallbacklocale: 'cz-cz', // fallback language
+        enablePathRewrite: true, // rewrite path with locale prefix, default: true
+        rewriteDefaultLanguage: false, // rewrite default locale, default: true
+        messages: {
+          'cz-cz': require('./src/locales/cz-cz.json'),
+          'en-us': require('./src/locales/en-us.json'),
+        }
+      }
+    }
   ],
-
   transformers: {
     //Add markdown support to all file-system sources
     remark: {

@@ -10,6 +10,7 @@
       </g-link> -->
 
       <div class="header__right">
+        <ChangeLanguage />
         <ToggleTheme />
       </div>
     </header>
@@ -32,6 +33,7 @@
 <script>
 import Logo from "~/components/Logo.vue";
 import ToggleTheme from "~/components/ToggleTheme.vue";
+import ChangeLanguage from "~/components/ChangeLanguage.vue";
 
 export default {
   props: {
@@ -40,6 +42,7 @@ export default {
   components: {
     Logo,
     ToggleTheme,
+    ChangeLanguage,
   },
 };
 </script>

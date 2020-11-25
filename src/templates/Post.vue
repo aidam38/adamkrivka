@@ -6,12 +6,15 @@
       </h1>
 
       <PostMeta :post="$page.post" />
-
     </div>
 
     <div class="post content-box">
       <div class="post__header">
-        <g-image alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
+        <g-image
+          alt="Cover image"
+          v-if="$page.post.cover_image"
+          :src="$page.post.cover_image"
+        />
       </div>
 
       <div class="post__content" v-html="$page.post.content" />
@@ -24,33 +27,32 @@
     <div class="post-comments">
       <!-- Add comment widgets here -->
     </div>
-
   </Layout>
 </template>
 
 <script>
-import PostMeta from '~/components/PostMeta'
-import PostTags from '~/components/PostTags'
-import Author from '~/components/Author.vue'
+import PostMeta from "~/components/PostMeta";
+import PostTags from "~/components/PostTags";
+import Author from "~/components/Author.vue";
 
 export default {
   components: {
     Author,
     PostMeta,
-    PostTags
+    PostTags,
   },
-  metaInfo () {
+  metaInfo() {
     return {
       title: this.$page.post.title,
       meta: [
         {
-          name: 'description',
-          content: this.$page.post.description
-        }
-      ]
-    }
-  }
-}
+          name: "description",
+          content: this.$page.post.description,
+        },
+      ],
+    };
+  },
+};
 </script>
 
 <page-query>
@@ -80,7 +82,6 @@ query Post ($id: ID!) {
 }
 
 .post {
-
   &__header {
     width: calc(100% + var(--space) * 2);
     margin-left: calc(var(--space) * -1);
@@ -113,9 +114,10 @@ query Post ($id: ID!) {
       margin-left: calc(var(--space) * -1);
       display: block;
       max-width: none;
+      padding: 40px;
     }
 
-    img[alt=fig]{
+    img[alt="fig"] {
       max-width: 500px;
     }
   }
