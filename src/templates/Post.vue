@@ -25,7 +25,7 @@
     </div>
 
     <div class="post-comments">
-      <Comments />
+      <!-- <Comments :post="$page.post" /> -->
     </div>
   </Layout>
 </template>
