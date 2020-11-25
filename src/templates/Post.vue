@@ -28,13 +28,8 @@
       <!-- Add comment widgets here -->
       <form
         method="POST"
-        action="https://adamkrivka-staticman.herokuapp.com/v2/entry/aidam38/adamkrivka/master"
+        action="https://adamkrivka-staticman.herokuapp.com/v2/entry/aidam38/adamkrivka/main"
       >
-        <input
-          name="options[redirect]"
-          type="hidden"
-          value="https://my-site.com"
-        />
         <!-- e.g. "2016-01-02-this-is-a-post" -->
         <input name="options[slug]" type="hidden" value="ahoj" />
         <label><input name="fields[name]" type="text" />Name</label>

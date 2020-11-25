@@ -3,6 +3,10 @@
 # For example, you can have one property to handle comment submission and
 # another one to handle posts.
 comments:
+  reCaptcha:
+    enabled: true 
+    siteKey: 6LeB3-wZAAAAAB629BrzU-LvJB-UKvqdQzA_iUWh
+    secret: sW3gxgpnv4MEwz8dQGDB2Bqag/r+coTAPW7ZswG36NsbdarzWQXZB9IEBeRox1BNbp2pO/oMBwEOyMVRhkxX8z4WOjTAHaycyQZ0J3zAT/EQFC9Bt/wiO0+jnCHJSKndrGyIGn+uvMPMKVFcMICBGALl3bG8LutgmU/UjX3mRBiQ7g52VcCo0/w+E91em665H1uivyQ2I0ynIpCSMNXU4LHms7aF8fDi7d+2APGbRzgJuH7nSSkz5mQ+QtlgAo+x/iy8zShKXhbK6HiUYCdr5Z2YSA2tTXjqwfsOAqoGpNx6etgtTDV4u9TswIGIRdmZyVN8EquS+MpXK3dTdIfSMyinxKMXiVzo8Y/29RAFdSCqZL6AT3srEFrZ4n83FESLKgIUvSEIvHwj7uvT3vcOgqfqjh0qG9wJ7AznbxDkPUmqpjB8u2AduHByp9ADrH5oLHr+D9V5AbuvtRUIO6SMyuT33o26s2ley71cxpToptHDACRy3WyeNYjM+N9oB1Oigr9tAq3j/BpuY/qFeXML65UdpHLdLVoT+zPEdBNEmKuTLbdKHSpzrnqcAGW5qbcHR/DGBTAfU2eKsBDXH1ZbuvM5+jU3LFEvM1tpWkxBVPomrrbveXKLA/uh/Mm5VZr2aDTZE5s1/WsZskS1N2/butmodchDvIfe24E9r7FsrtI=
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
@@ -13,10 +17,10 @@ comments:
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: "master"
+  branch: "main"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "Add Staticman data"
+  commitMessage: "NEW COMMENT"
 
   # (*) REQUIRED
   #
