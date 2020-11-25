@@ -1,16 +1,15 @@
 ---
-title: "Roam Research: Opravdovsky revoluční zápiskovací aplikace"
+
+title: "Roam Research: Revoluční zápiskovací aplikace"
 url: "roam"
 author: "Adam Křivka"
 published: true
-date: 2020-10-15
+date: 2020-11-25
 tags: ['Roam Research']
 ---
 
 
-(S Roam Research, Inc. nejsem jakkoliv spojen.)
-
-Během střední školy jsem byl takový ten student, který si zásadně nedělá zápisky a všechno se snaží zvládnout jen dáváním pozoru v hodinách nebo vždycky před písemkou škemrá u holek jejich krasopisné poznámky. Fungovalo to, ale měl jsem pocit, že se mi všechno hned vytrácí z hlavy. 
+Během střední školy jsem byl takový ten typ studenta, který si zásadně nedělá zápisky a všechno se snaží zvládnout jen dáváním pozoru v hodinách nebo vždycky před písemkou škemrá u spolužaček jejich krasopisné poznámky. Fungovalo to, ale měl jsem pocit, že se mi všechno hned vytrácí z hlavy. 
 
 Problém byl, že mít sešit na každý předmět mi přišlo hrozně neefektivní. Co když se učíme o podobné věci ve dvou předmětech? Jak si mám spojit literárně-historický kontext v češtině s dějepisem? Nebo organickou chemii s biologií?
 
@@ -18,13 +17,15 @@ Dopadlo to tak, že jsem si celou střední místo toho kreslil do svého jednoh
 
 **Ale pak jsem v únoru 2020 objevil Roam Research a všechno do sebe zapadlo.** Karanténa a maturita přede mnou... akorát čas zkonsolidovat vědomosti a udělat si ve věcech pořádek.
 
+*(S Roam Research, Inc. nejsem jakkoliv spojen.)*
+
 # Struktura článku
 
 - Jak Roam funguje
 
 - Čím byl Roam inspirován & vize
 
-- Proč vám Roam dá 1000x víc než vás bude stát
+- Proč vám Roam dá mnohem víc než vás bude stát
 
 - Jak začít
 
@@ -36,7 +37,7 @@ Roam Research je zápiskovací aplikace, nebo spíš **nástroj pro myšlení** 
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2FQMbbmEoavC.png?alt=media&token=0654f565-b59c-40b4-9cf7-5a8810afcd9b)
 
-Moje síť, nebo správněji __graf__, ale vypadá už takhle:
+Moje síť, nebo správněji *graf*, ale vypadá už takhle:
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2Fm2n3wTEtyr.png?alt=media&token=85fc17e3-3d4d-4c5b-8934-722dab294aca)
 
@@ -46,7 +47,7 @@ Dalo by se říct, že se právě koukáte na takový můj druhý mozek.
 
 V Roamu jsou dva základní elementy **stránka** a **blok** (angl. "page" a "block"). Blok je něco jako odrážka a stránka je prostě pojmenovaný seznam odrážek, samozřejmě s možností vnořovat (tj. mít "pododrážky"), něco jako dokument. 
 
-Na každou stránku (ale i blok; o tom později) se dá odkazovat pomocí dvou hranatých závorek, např. v mém grafu by vás kliknutí na [[Roam Research: Opravdosky revoluční zápiskovací aplikace]] odkázalo na stránku, kde připravuju tenhle článek. 
+Na každou stránku (ale i blok; o tom později) se dá odkazovat pomocí dvou hranatých závorek, např. v mém grafu by vás kliknutí na [[Roam Research: Revoluční zápiskovací aplikace]] odkázalo na stránku, kde připravuji tenhle článek. 
 
 A teď to revoluční: na každé stránce máte kromě jejího obsahu i seznam zpětných odkazů, tj. stránek (nebo spíš konkrétních bloků), které zmiňují stránku, na které se zrovna nacházíte. Někdy něco takového bývá na konci článků na Wikipedii, ale v Roamu je to mnohem víc. 
 
@@ -108,17 +109,11 @@ A máte tři stránky:
 
 (Pokud jste se doteď hrozili, že ty hranaté závorky se blbě čtou, tak si v ukázce výše všimněte, že po kliknutí mimo odrážku zmizely. Dá se to nastavit.)
 
-Já si teď takhle třeba zapisuju přednášky na vysoké škole: 
+Já si teď takhle třeba zapisuji přednášky na vysoké škole: 
 
 - [[předmět A]] #[[přednáška]] na *téma* 
 
-Do odrážek pod tímto blokem si pak dělám poznámky, které po přednášce znovu procházím, přidávám odkazy a případně přepisuju některé informace jinam. 
-
-Nebo když se vrátíme zpátky k receptům -- někdy si napíšu:
-
-- 12:00 #[[vařím]] [[vepřoknedlozelo]]
-
-Za pár let se tak potom můžu dívat na všechny časy, kdy jsem něco vařil, nebo kdy jsem zrovna vařil vepřoknedlozelo.
+Do odrážek pod tímto blokem si pak dělám poznámky, které po přednášce znovu procházím, přidávám odkazy a případně přepisuji některé informace jinam. 
 
 ## Blokové odkazy & boční panel
 
@@ -135,16 +130,15 @@ Boční panel vám otevírá nekonečné možnosti. Můžete v něm mít napří
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2FZCLAkKJXpj.gif?alt=media&token=66d14da9-1df7-405c-a12b-57147435287a)
 
 
-
-## Srandičky
+## Ostatní funkce
 
 V předchozí ukázce jste si mohli všimnout, že jsem měl u každého úkolu takové odškrtávátko. To se tam objeví, když dám Ctrl+Enter nebo napíšu {{[[TODO]]}} (skoro vždycky to ale dělám to zkratkou). Ostatní takovéhle vychytávky se skrývají pod menu, které se objeví, když napíšete lomeno /, např. můžete rychle vložit aktuální čas (hodí se na psaní diáře), zapnout si časovač na 25 minut, najít nějaké datum v miniaturním kalendář, vložit matematickou rovnici, atd.
 
-Taky se samozřejmě v Roamu dají dělat nadpisy (tří úrovní, pomocí #, ## a ###), tučné a šikmé písmo (pomocí \*\*tučně\*\*, \_\_šikmo\_\_), zvýrazňovat (^^zvýrazněně^^), atd.
+Taky se samozřejmě v Roamu dají dělat nadpisy tří úrovní, tučné a šikmé písmo (pomocí \*\*tučně\*\*, \_\_šikmo\_\_), zvýrazňovat (^^zvýrazněně^^), atd.
 
 # Čím byl Roam inspirován & vize
 
-Všechny cesty vedou do Říma / Roamu. Zakladatelé Roamu se často odkazují na úplně první průkopníky počítačových systém, kteří silně věřili, že největší pozitivní dopad počítačů bude v pomáhání lidem efektivněji myslet a v organizaci informací. Od té doby vzniklo několik projektů podobných Roamu, ale žádný nebyl velice úspěšný. Vlastně nejpodobnější Roamu je samotný internet v kombinaci s vyhledávačem, např. Google. 
+Všechny cesty vedou do Říma / Roamu. Zakladatelé Roamu se často odkazují na úplně první průkopníky počítačových systém, kteří silně věřili, že největší pozitivní dopad počítačů bude v pomáhání lidem efektivněji myslet a v organizaci informací. Od té doby vzniklo několik projektů podobných Roamu, ale žádný nebyl příliš úspěšný. Vlastně nejpodobnější Roamu je samotný internet v kombinaci s vyhledávačem, např. Google. 
 
 A to je i samotná vize Roamu: organizovat vědomosti lidstva lépe, než je tomu teď. V tuto chvíli je Roam v podstatě výhradně individuální aplikace, ale tvůrci mají v plánu umožnit jednoduchou spolupráci a vytvořit tak v podstatě systém "kolektivního vědomí". 
 
@@ -152,23 +146,25 @@ Prakticky začíná historie Roamu přbližně 2-3 roky zpátky. Tou dobou vyšl
 
 Prvními testery Roamu byli výzkumníci v oblasti bezpečnosti umělé inteligence, existenciálních rizik a dlouhodobých cílů. Tak tomu bylo přibližně do září roku 2019, kdy se s Roamem po internetu (hlavně Twitteru) "roztrhl pytel" a uživatelská základna začal růst neskutečným tempem, až v květnu 2020 musel tým pozastavit registraci nových členů kvůli přehlcení serverů a v červnu produkt zpeněžnit.
 
-# Proč vám Roam dá 1000x víc než vás bude stát
+# Proč vám Roam dá mnohem víc než vás bude stát
 
 Přiznám se, že jsem Vám zamlčel jednu důležitou věc. **Roam stojí 7,5 dolaru, tj. cca 160 korun, měsíčně pro studenty a akademiky a 15 dolarů, tj. cca 330 korun, pro ostatní.** 
 
 Já jsem student a předpokládám že hodně čtenářů taky. 160 korun je jako jedno menu s bagetou a pitím v Bageterii Boulevard. A já naprosto miluju Bageterii Boulevard, věřte mi! 
 
-Ale vytváří pro mě jedna bageta v Bageterii Boulevard měsíčně opravdu takovou, jako používání Roamu jeden měsíc? Roam je první věc, kterou ráno na počítači otevřu. Předtím to byl Facebook, teď je to Roam. V podstatě celý den si do něj píšu myšlenky, poznámky a organizuju si v něm všechny informace, které se učíme. Díky Roamu jsem úspěšně odmaturoval s minimálním časem na učení; a teď na Caltechu, vyhlášeně náročné americké univerzitě, mám i přes online studium dobré výsledky. O prázdninách jsem zorganizoval tři velké zážitkové akce, jejichž program jsem sestavoval v Roamu. Neustále narážím na nějaké poznámky, které jsem psal třeba 6 měsíců zpátky (pomocí zpětných odkazů), a vždy mě to nějak překvapí a posune. Kdykoliv se cítím špatně, napíšu si #reflexe a vyliju si srdíčko; pak se můžu později smát, nad čím jsem to měl takovou blbou depku.
+**Ale vytváří pro mě jedna bageta v Bageterii Boulevard měsíčně opravdu takovou hodnotu, jako používání Roamu jeden měsíc? **
+
+Roam je první věc, kterou ráno na počítači otevřu. Předtím to byl Facebook, teď je to Roam. V podstatě celý den si do něj píšu myšlenky, poznámky a organizuji si v něm všechny informace, které se učíme. Díky Roamu jsem úspěšně odmaturoval s minimálním časem na učení; a teď na Caltechu, obzvlášť náročné americké univerzitě, mám i přes online studium dobré výsledky. O prázdninách jsem zorganizoval tři velké zážitkové akce, jejichž program jsem sestavoval v Roamu. Neustále narážím na nějaké poznámky, které jsem psal třeba 6 měsíců zpátky (pomocí zpětných odkazů), a vždy mě to nějak překvapí a posune. Kdykoliv se cítím špatně, napíšu si #reflexe a vyliju si srdíčko; pak se můžu později smát, nad čím jsem to měl takovou blbou depku.
 
 Takže v součtu.... jednu bagetu v bageterii Boulevard fakt oželím. 
 
-Silně věřím, že to pro vás může být úplně stejné. Každý, kdo to dočetl až sem, má určitě ve svém životě mnoho oblastí, ve kterých jim Roam může zásadně pomoct. Prosím, bylo by hloupé, kdyby vás naťukání kreditky při zakládání účtu odradilo od používání tak skvělé aplikace. **První měsíc je zadarmo** a předplatné můžete kdykoliv zrušit.
+Myslím, že to pro vás může být úplně stejně. Každý, kdo to dočetl až sem, má určitě ve svém životě mnoho oblastí, které jim Roam může zásadně zefektivnit. Byla by škoda, kdyby vás naťukání kreditky při zakládání účtu odradilo od používání tak skvělé aplikace. **První měsíc je zadarmo** a předplatné můžete kdykoliv zrušit.
 
 https://roamresearch.com/
 
 (Zopakuji, že nejsem s Roam Research finančně propojen.)
 
-Pokud si chcete Roam vyzkoušet hned teď a tady, tak můžete zavítat na moji zaučovací anarchistickou veřejnou databázi. Je to jedna z mých osobních předplacených, kterou poskytuju lidem, aby si Roam vyzkoušeli, než budou muset naťukovat tu kreditku na free trial. Můžete psát cokoliv kamkoliv, jen vězte, že pokud to nesmažete, tak to tam zůstane.
+Pokud si chcete Roam vyzkoušet hned teď a tady, tak můžete zavítat na moji zaučovací anarchistickou veřejnou databázi. Je to jedna z mých osobních předplacených, kterou poskytuji lidem, aby si Roam vyzkoušeli, než budou muset naťukat tu kreditku na free trial. Můžete psát cokoliv kamkoliv, jen vězte, že pokud to nesmažete, tak to tam zůstane.
 
 https://roamresearch.com/#/app/use-this-app-it-will-change-your-life
 
@@ -176,16 +172,18 @@ https://roamresearch.com/#/app/use-this-app-it-will-change-your-life
 
 Tento článek to bral dost zhurta. Pokud byste teď otevřeli Roam, byli byste pravděpodobně pořád zmatení. To je normální. Já si až teď po půl roce přijdu, že Roam vážně zvládám. 
 
-Začněte pomalu -- piště hlavně na denní poznámku, vytvářejte hodně stránek (nebojte se, že tam někde zůstanou viset... dokud na ně žádná stránka neukazuje, je to jakoby neexistovaly) a naučte se vnořovat odrážky. 
+Začněte pomalu -- pište hlavně na denní poznámku, vytvářejte hodně stránek (nebojte se, že tam někde zůstanou viset... dokud na ně žádná stránka neukazuje, je to jakoby neexistovaly) a naučte se vnořovat odrážky. 
 
 Úplně nejlepší je najít si nějaký konkrétní projekt, který byste chtěli v Roamu realizovat. Přepsat si zápisky ze školy, sledovat úkoly do práce, konečně sepsat ten recept na domácí buchty, začít objevovat svoje pocity...
 
-Pokud byste ocenili, kdybych sepsal nějaký obsáhlejší český tutoriál na Roam, zanechte komentář níže pod tímto článkem nebo mi napište e-mail (krivka.adam@gmail.com). Snad se pak tomu snáz dokopu.
+Pokud byste ocenili, kdybych sepsal nějaký obsáhlejší český tutoriál na Roam, zanechte komentář níže pod tímto článkem (až to zprovozním) nebo mi napište e-mail ([krivka.adam@gmail.com](mailto:krivka.adam@gmail.com)). Snad se pak tomu snáz dokopu.
 
 # Roam 1-on-1 zaučování
 
-Každému zájemci nabízím **1-on-1 hodinovou zaučovací online schůzku**. Tuto službu nabízí i samotný support team Roamu, ale předpokládám, že anglický jazyk by pro velkou část českých uživatelů mohl být bariérou. Navíc pro mě to není velká časová dotace, aspoň se ty hodiny a hodiny strávené učením Roamu zužitkují tm, že ten proces urychlím někomu jinému. 
+Každému zájemci nabízím **1-on-1 hodinovou zaučovací online schůzku**. Tuto službu nabízí i samotný support team Roamu, ale předpokládám, že anglický jazyk by pro velkou část českých uživatelů mohl být bariérou. Navíc pro mě to není velká časová dotace, aspoň se ty hodiny a hodiny strávené učením Roamu zužitkují tím, že ten proces urychlím někomu jinému. 
 
-Zapište se tady: https://calendly.com/krivka-adam/roam-1-on-1-zauceni , nebo mi napište e-mail na krivka.adam@gmail.com.
+Zapište se tady: https://calendly.com/krivka-adam/roam-1-on-1-zauceni , nebo mi napište e-mail na [krivka.adam@gmail.com](mailto:krivka.adam@gmail.com).
+
+
 
 
