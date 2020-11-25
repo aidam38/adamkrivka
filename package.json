@@ -11,12 +11,11 @@
     "@gridsome/remark-prismjs": "^0.2.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.3",
-    "gridsome": "^0.7.21",
+    "gridsome": "^0.7.23",
     "gridsome-plugin-i18n": "^1.6.0",
     "gridsome-remark-katex": "^0.1.1",
     "remark-attr": "^0.11.1",
     "remark-collapse": "^0.1.2",
-    "vue-navigation-bar": "^4.0.2",
     "vue-recaptcha-v3": "^1.9.0"
   },
   "devDependencies": {
