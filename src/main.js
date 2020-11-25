@@ -14,5 +14,5 @@ import { VueReCaptcha } from 'vue-recaptcha-v3'
 export default function (Vue) {
   Vue.component('Layout', DefaultLayout)
 
-  // Vue.use(VueReCaptcha, { siteKey: '6LeB3-wZAAAAAB629BrzU-LvJB-UKvqdQzA_iUWh' })
+  Vue.use(VueReCaptcha, { siteKey: '6LeB3-wZAAAAAB629BrzU-LvJB-UKvqdQzA_iUWh', loaderOptions: { autoHideBadge: true } })
 }

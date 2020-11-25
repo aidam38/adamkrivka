@@ -25,7 +25,7 @@
     </div>
 
     <div class="post-comments">
-      <!-- Add comment widgets here -->
+      <Comments />
     </div>
   </Layout>
 </template>
@@ -34,12 +34,14 @@
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Author from "~/components/Author.vue";
+import Comments from "~/components/Comments.vue";
 
 export default {
   components: {
     Author,
     PostMeta,
     PostTags,
+    Comments,
   },
   metaInfo() {
     return {

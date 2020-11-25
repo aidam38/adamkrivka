@@ -48,7 +48,7 @@ export default {
     PostCard,
   },
   metaInfo: {
-    title: "",
+    title: "Všechny příspěvky",
   },
 };
 </script>
