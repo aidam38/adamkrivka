@@ -10,7 +10,7 @@
       </g-link> -->
 
       <div class="header__right">
-        <ChangeLanguage />
+        <!-- <ChangeLanguage /> -->
         <ToggleTheme />
       </div>
     </header>
