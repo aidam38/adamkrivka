@@ -16,7 +16,7 @@ export default function (Vue, { head }) {
     src: "https://www.google.com/recaptcha/api.js"
   })
 
-  Vue.use(VueReCaptcha, { siteKey: '6LeB3-wZAAAAAB629BrzU-LvJB-UKvqdQzA_iUWh', loaderOptions: { autoHideBadge: false } })
+  Vue.use(VueReCaptcha, { siteKey: '6LeB3-wZAAAAAB629BrzU-LvJB-UKvqdQzA_iUWh', loaderOptions: { autoHideBadge: true } })
 
   Vue.component('Layout', DefaultLayout)
 }

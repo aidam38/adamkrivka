@@ -1,9 +1,9 @@
 ---
-
 title: "Roam Research: Revoluční zápiskovací aplikace"
 url: "roam"
 author: "Adam Křivka"
 published: true
+cover_image: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2Fm2n3wTEtyr.png?alt=media&token=85fc17e3-3d4d-4c5b-8934-722dab294aca
 date: 2020-11-25
 tags: ['Roam Research']
 ---
