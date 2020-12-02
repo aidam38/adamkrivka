@@ -1,0 +1,3 @@
+[submodule "static/roam-plugins"]
+	path = static/roam-plugins
+	url = https://github.com/aidam38/roam-plugins
