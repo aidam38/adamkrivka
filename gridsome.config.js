@@ -48,6 +48,12 @@ module.exports = {
           'en-us': require('./src/locales/en-us.json'),
         }
       }
+    },
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'G-PE0TM9SLZMI'
+      }
     }
   ],
   transformers: {
