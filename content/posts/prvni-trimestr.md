@@ -20,6 +20,21 @@ Vtipné je, že skoro přesně takhle vypadají koleje na Caltechu a region Prov
 
 K službám jsme měli Julovu tetu, která bydlí poblíž. Pandemii jsme v podstatě nevnímali, protože jsme byli takčitak izolovaní. Kromě pár pošťáků, prodavače v předražené sámošce, dvou zahradníků, týpka na bazén a... uklízečky (jo, majitelka na tom trvala; asi nevěří studentům), jsme nikoho jiného neviděli.
 
+Tady ještě pár fotek z výletů:
+<style>
+p img {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+</style>
+![Image](./images/prvni-trimestr/IMG_20201127_145040.jpg)
+
+![Image](./images/prvni-trimestr/IMG_20201127_141023.jpg)
+
+![Image](./images/prvni-trimestr/IMG_20201018_125610.jpg)
+
+![Image](./images/prvni-trimestr/IMG_20201003_153921.jpg)
+
 # Studium
 
 Předměty jsem měl následující (s volným překladem):
