@@ -3,7 +3,7 @@ title: "První trimestr na Caltechu, aneb low-cost Kalifornie"
 url: "prvni-trimestr-na-caltechu"
 author: "Adam Křivka"
 published: true
-cover_image: https://lh3.googleusercontent.com/5M2HVMb9kjuiJyZOGzqWfOdFLyeQmXNpO3Wzq8Vytf1qRTNRtQKFSzi5c9jAG-zJOgH9JqFpTxRRHGyEje-plWrO4cElZV2aow5yAVXc7cm5WzGSAbofKZW_2Tg7OtLDk1hEx5UX2GZ7RdRSqVA6FSJCx0pCkLu2Ax_WCBcyUeMM_tpx6uo2x89HPy_NNLYOJoSQXgpYnpzj4JWSRASPF7TPUYH6xOjle589an84ya2c-iKyadsyFsWkgttsA1kSw6RUITBq9LqJ51QhRSdveUzaDK_0XiT1ClP1Gyc9_dyZEE9kAqyulnB9RCi_aRCLoMbgtSdz6Mn00sEyh1L-pijHHbFtuJFtZe_zopjMQNhiJOad-ofGHCwZwOY2zrqQMyfnHWU-dYLWHE2Xu0sdd0AwgoWALBnUjzifKfEm2XDCXs36sNPylWrcfLCRDcYp3yNhqfHtRcT3H3i9heyDqSjq9mchbvoe-MyKquKjdv5ki5PNny5ltSz--FBvRH9LTSK4W3GHdg_z6eio-SXrkvaEEW65OeMhPzWdjtKggzi5rj1if49QSKxNfaFz-Zu_7Z33XPJekrVZIzCe_P5uDAY11jfhZUT5ZxvaKmUwxvmHkKSgLR-uw1_H-5Fni_MmYaUBQGgJLqVITo5r9AXRf45_eSgg9opk3pZE1mPgzqr5bo-X4ttSBBHuHg4UUQ=w1295-h960-no?authuser=0
+cover_image: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fnotemap%2FgpdDZkDcYw.jpg?alt=media&token=f98335d9-e426-4cd8-9aa8-4dc84834d9be
 date: 2020-12-15
 tags: ['Caltech', 'Život']
 ---
@@ -14,7 +14,7 @@ Poslední tři měsíce jsem strávil na jihu Francie, v malebném městečku jm
 
 Naštěstí se objevili Jules a Olivers, dva evropští spolužáci (J. z Francie a O. z Lotyšska). Hledali jsme bydlení ve všech státech (i když já v Česku zas tak ne, chtěl jsem vypadnout) a nakonec jsme se rozhodli pro luxusní letní sídlo známé Julova táty, za slušnou covidovou a rodinnou cenu (+ jsme všichni měli stipendium od Caltechu). Takhle to vypadá:
 
-![](https://lh3.googleusercontent.com/zI1sduaicWR-WyhrnQrKIs4W3PmZk-PJyJGAU7GzIZmztLvabDzpXIojAj4lcgaalzTJu0pCQZa7RtfkBZAV27_Oa7c4_O4oKSbT9-Hqb-Jz-kPpIeimh__2MA5Gt7j0yTvlNHrVC3X21SNRi5ULOeSbGHnqrJAbYWqjcKc0IKjvzb-6Nub1qTE9QsVO9xFbbBnMuk-Zz8tSOMpmjsCb8YF2t2MlNkcBsxB5_-y_baoDnkig_dMA6vxOzUxoJfL6CG6icFDJrOViAdzxxATQZvgp5PVJ0fqI2MMNE5jRwFxkf9g4ygjpW4EDqQwv9daPXdwUwuEh-TfiRR6m_xbVtcZFS-YRFyU8eiTCKMiCyE1NUdMFVNHdgvqqaJ0pkaR7D_SEnzvnjD6tZL4Wv0anoNsISbN_ANjK4GG6XQ6p9NR1rhl6MMwHOIeyt8HUjDGjvayrVIPWSHNn2QIX1IQ2538AqDnCK4EfBWxNM7kmMl5pVgyL6VsQm4ghq_gLWo1I-rLAQebnGoTAxpuVai49lMvHPQq_qNKaBlz0TgU4Pc5BslPX_eOJUoEmf2SdF1-i41SBNd1ZmP5DZ7mk0RNGNAUcsDbJAPA1ALzrTX9K73Tk5fYMC-HGBTC3fEPrpOeQtPqmM-UmptpU4F7XW6oeMkmsdYXlV952ALPgOw-45IANy-E7gqon92_8Mrd6ng=w1295-h960-no?authuser=0)
+![Image](./images/prvni-trimestr/vypada.jpg)
 
 Vtipné je, že skoro přesně takhle vypadají koleje na Caltechu a region Provence je poměrně podobný Kalifornii (např. oba jsou známé pro víno). 
 
