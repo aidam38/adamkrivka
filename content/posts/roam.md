@@ -29,8 +29,6 @@ Dopadlo to tak, že jsem si celou střední místo toho kreslil do svého jednoh
 
 - Jak začít
 
-- Roam 1-on-1 zaučování
-
 # Jak Roam funguje
 
 Roam Research je zápiskovací aplikace, nebo spíš **nástroj pro myšlení** (angl. "tool for thought"), která vám umožňuje volně vytvářet poznámky a vzájemně je propojovat do jedné velké sítě. Takhle nějak by mohla vypadat ta síť:
@@ -177,13 +175,4 @@ Začněte pomalu -- pište hlavně na denní poznámku, vytvářejte hodně str�
 Úplně nejlepší je najít si nějaký konkrétní projekt, který byste chtěli v Roamu realizovat. Přepsat si zápisky ze školy, sledovat úkoly do práce, konečně sepsat ten recept na domácí buchty, začít objevovat svoje pocity...
 
 Pokud byste ocenili, kdybych sepsal nějaký obsáhlejší český tutoriál na Roam, zanechte komentář níže pod tímto článkem (až to zprovozním) nebo mi napište e-mail ([krivka.adam@gmail.com](mailto:krivka.adam@gmail.com)). Snad se pak tomu snáz dokopu.
-
-# Roam 1-on-1 zaučování
-
-Každému zájemci nabízím **1-on-1 hodinovou zaučovací online schůzku**. Tuto službu nabízí i samotný support team Roamu, ale předpokládám, že anglický jazyk by pro velkou část českých uživatelů mohl být bariérou. Navíc pro mě to není velká časová dotace, aspoň se ty hodiny a hodiny strávené učením Roamu zužitkují tím, že ten proces urychlím někomu jinému. 
-
-Zapište se tady: https://calendly.com/krivka-adam/roam-1-on-1-zauceni , nebo mi napište e-mail na [krivka.adam@gmail.com](mailto:krivka.adam@gmail.com).
-
-
-
 
